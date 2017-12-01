@@ -26,7 +26,7 @@ body {
   <h3>Work History</h3>
   <ol>
     <li>Hong Kong Restaurant<ul>
-      <li>I was a dishwasher for Hong Kong Restaurant I worked hard and did my job well but the job was too much for me and I did not like working there. I worked from 12/31/16 to 5/28/17. I learned from this job on being more efficient I learned on how to work until the job is over, I also got used to working very late. I did not like the job but I still learned a lot from it. </li>
+      <li>I was a dishwasher for Hong Kong Restaurant I worked hard and did my job well. I worked from 12/31/16 to 5/28/17. I learned from this job on being more efficient I learned on how to work until the job is over, I also got used to working very late. </li>
     </ul></li>
   </ol>
   <h4>Interests</h4>
