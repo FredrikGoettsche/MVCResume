@@ -10,18 +10,21 @@ body {
 </style>
 </head>
 <body>${message}
- 
+<img alt="Picture of face" src="https://www.facebook.com/photo.php?fbid=847223198782137&set=a.847223182115472.1073741830.100004833939599&type=3">
 <h1> Here is my resume</h1>
  <b><p>Job objective: I am looking for entry-level in the technology industry specifically in a software related job. </p></b>
  <p>Education: I am just finishing high school. I am taking online programs to learn some basics in software development. Right now I am learning front-end development. I will go to back-end development later.</p>
   <h2>Experience</h2>
   <ol> 
     <li>FreeCodeCamp<ul>
-      <li>I am now going though coding classes and learning front-end development. I am very excited to learn coding and about other things related to the subject. I am trying to finish the course even though I am very busy.</li>
+      <li>I have gone though coding classes and learning front-end development.</li>
     </ul></li>
     <li> Nampa Farmers Market<ul>
-      <li>I have experience with communication and talking to customers. I am an introvert though and prefer to work in peace. I am willing to work in group settings and will participate in that setting but prefer to work alone. If i am having trouble with something I will ask for help and make sure I am meeting expectations.</li>
+      <li>I have experience with communication and talking to customers.  I am willing to work in group settings and will participate in that setting. If i am having trouble with something I will ask for help and make sure I am meeting expectations.</li>
     </ul></li>
+    <li>Senior Project</li><ul>
+    	<li>I made a website from a tutorial and added a resume on it.</li>
+    </ul>
   </ol>
   <h3>Work History</h3>
   <ol>
@@ -34,6 +37,7 @@ body {
     <li>I am very interested in things like coding and research. I love learning about web development and software engineering. I find it as my passion in life to code and solve problems.</li>
     <li> I also have an interest in martial Arts and tennis. I played Tennis for several years and stoped two years ago because of my schedule. I am doing martial arts right now. I will be hopefully getting a black belt in one year.</li>
   </ul>
+  <a href="mailto:goettschefredrik@gmail.com">Contact me!</a>
 	<br>
 	<br>
 	<div style="font-family: verdana; padding: 10px; border-radius: 10px; font-size: 12px; text-align:center;">
