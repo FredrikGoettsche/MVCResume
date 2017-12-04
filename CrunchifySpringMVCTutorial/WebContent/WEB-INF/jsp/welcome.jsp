@@ -10,7 +10,7 @@ body {
 </style>
 </head>
 <body>${message}
-<img alt="Picture of face" src="https://www.facebook.com/photo.php?fbid=847223198782137&set=a.847223182115472.1073741830.100004833939599&type=3">
+<img alt="Picture of face" src="${pageContext.request.contextPath}/resources/images/face.jpg">
 <h1> Here is my resume</h1>
  <b><p>Job objective: I am looking for entry-level in the technology industry specifically in a software related job. </p></b>
  <p>Education: I am just finishing high school. I am taking online programs to learn some basics in software development. Right now I am learning front-end development. I will go to back-end development later.</p>
@@ -23,7 +23,7 @@ body {
       <li>I have experience with communication and talking to customers.  I am willing to work in group settings and will participate in that setting. If i am having trouble with something I will ask for help and make sure I am meeting expectations.</li>
     </ul></li>
     <li>Senior Project</li><ul>
-    	<li>I made a website from a tutorial and added a resume on it.</li>
+    	<li>I made a website of a resume with the help of a mentor.</li>
     </ul>
   </ol>
   <h3>Work History</h3>
