@@ -10,7 +10,7 @@ body {
 </style>
 </head>
 <body>${message}
-<img alt="Picture of face" src="${pageContext.request.contextPath}/resources/images/face.jpg">
+<img alt="Picture of face" src="${pageContext.request.contextPath}/resources/images/face.jpg" height="50" width="50">
 <h1> Here is my resume</h1>
  <b><p>Job objective: I am looking for entry-level in the technology industry specifically in a software related job. </p></b>
  <p>Education: I am just finishing high school. I am taking online programs to learn some basics in software development. Right now I am learning front-end development. I will go to back-end development later.</p>
